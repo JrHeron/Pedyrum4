@@ -73,7 +73,7 @@ void JaguatiInterface::input()
 
     _linkLicense = "http://pt.wikipedia.org/wiki/Licença_BSD";
     _linkJaguati = "www.jaguati.com.br";
-    _linkSource = "";
+    _linkSource = "https://github.com/JaguatiSource/Pedyrum4/";
 
     lCenter->setStyleSheet("background-color: qlineargradient(spread:pad, x1:0.498,"
                            "y1:0, x2:0.494636, y2:1, stop:0 rgba(255, 255, 255, 255),"

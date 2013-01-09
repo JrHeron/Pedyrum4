@@ -175,5 +175,4 @@ FORMS += pedyrum.ui
 RESOURCES += Files.qrc
 
 OTHER_FILES += \
-    Interface/Table/SummaryTable.txt \
     notes.txt
